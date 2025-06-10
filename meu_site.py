@@ -1,4 +1,4 @@
-import streamlit as st
+
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
 # st.set_page_config deve ser o primeiro comando Streamlit
